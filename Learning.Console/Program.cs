@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Learning.AsynchronousAndMultithreadingProgramming._10_WaitHandles_ThreadPool;
+
+SignalAndWaitExample example = new();
+example.Run();
