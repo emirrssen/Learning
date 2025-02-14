@@ -1,4 +1,4 @@
-﻿using Learning.AsynchronousAndMultithreadingProgramming._10_WaitHandles_ThreadPool;
+﻿using Learning.AsynchronousAndMultithreadingProgramming._11_BarrierClass;
 
-SignalAndWaitExample example = new();
+BarrierWithTriggerEvent example = new();
 example.Run();
