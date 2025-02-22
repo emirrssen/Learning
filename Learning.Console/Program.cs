@@ -1,4 +1,4 @@
-﻿using Learning.AsynchronousAndMultithreadingProgramming._11_BarrierClass;
+﻿using Learning.AsynchronousAndMultithreadingProgramming._12_ThreadLocalStorage;
 
-BarrierWithTriggerEvent example = new();
+GetData_SetData example = new();
 example.Run();
