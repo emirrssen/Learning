@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.Console", "Learnin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.AsynchronousAndMultithreadingProgramming", "Learning.AsynchronousAndMultithreadingProgramming\Learning.AsynchronousAndMultithreadingProgramming.csproj", "{3533E895-0590-4262-A9C0-BC048F41DD58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.gRPC", "Learning.gRPC\Learning.gRPC.csproj", "{38E3AC67-8CF5-40E3-B50A-A586A0394D73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3533E895-0590-4262-A9C0-BC048F41DD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3533E895-0590-4262-A9C0-BC048F41DD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3533E895-0590-4262-A9C0-BC048F41DD58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38E3AC67-8CF5-40E3-B50A-A586A0394D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E3AC67-8CF5-40E3-B50A-A586A0394D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E3AC67-8CF5-40E3-B50A-A586A0394D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E3AC67-8CF5-40E3-B50A-A586A0394D73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
