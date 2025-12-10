@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.Subjects.gRPC.Serv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.Console", "Learning.Presentation\Learning.Console\Learning.Console.csproj", "{8D52EA71-F06A-40A5-A1BF-BA37B47C8475}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.Subjects.gRPC.Client", "Learning.Subjects\Learning.Subjects.gRPC\Learning.Subjects.gRPC.Client\Learning.Subjects.gRPC.Client.csproj", "{AD68E260-BF83-496D-B0BD-BB3340783DEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8D52EA71-F06A-40A5-A1BF-BA37B47C8475}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D52EA71-F06A-40A5-A1BF-BA37B47C8475}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D52EA71-F06A-40A5-A1BF-BA37B47C8475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD68E260-BF83-496D-B0BD-BB3340783DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD68E260-BF83-496D-B0BD-BB3340783DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD68E260-BF83-496D-B0BD-BB3340783DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD68E260-BF83-496D-B0BD-BB3340783DEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -45,5 +51,6 @@ Global
 		{D63F9BA6-95C9-4AB3-A86F-917885D6B3A1} = {35FAFEB5-3322-419E-88B3-0F16B45670DC}
 		{728550C1-5CD9-44FA-B355-2A8AFBA4E21C} = {D63F9BA6-95C9-4AB3-A86F-917885D6B3A1}
 		{8D52EA71-F06A-40A5-A1BF-BA37B47C8475} = {3A3509A4-273A-4621-A8AC-3348FA851380}
+		{AD68E260-BF83-496D-B0BD-BB3340783DEE} = {D63F9BA6-95C9-4AB3-A86F-917885D6B3A1}
 	EndGlobalSection
 EndGlobal
